@@ -1,10 +1,10 @@
-[Watch preview](https://honcaharoyara.github.io/menu_generator/)
+[Watch preview](https://honcaharoyara.github.io/menu_generator/build/index.html)
 
 Hello everyone ;)
 
 Menu generator, is classic homework from a school, to use webpack.
 
-The tasks is:
+The tasks was:
 
-- Write theme swicher.
+- Write theme swicher with saving theme to localhost.
 - Render menu items from `src/menu.json`.
