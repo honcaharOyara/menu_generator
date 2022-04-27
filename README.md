@@ -7,4 +7,4 @@ The tasks is:
 - Write theme swicher.
 - Render menu items from `src/menu.json`
 
-[https://honcaharoyara.github.io/menu_generator/](Wath preview)
+[https://honcaharoyara.github.io/menu_generator/](Preview)
