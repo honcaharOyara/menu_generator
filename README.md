@@ -14,6 +14,3 @@ Technology stack:
 - html
 - scss
 - js
-
-File compiler:
--webpack
