@@ -8,3 +8,12 @@ The tasks was:
 
 - Write theme swicher with saving theme to localhost.
 - Render menu items from `src/menu.json`.
+
+
+Technology stack:
+- html
+- scss
+- js
+
+File compiler:
+-webpack
